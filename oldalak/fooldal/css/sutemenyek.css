@@ -1,0 +1,22 @@
+body {
+    background-color: #FBEFDB;
+}
+
+nav{
+    background-color: #1F5B25;
+    padding: 15px;
+}
+
+nav a{
+    color: white;
+    margin: 15px;
+}
+
+nav a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:first-child{
+    font-size: 1,5em;
+}

@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+
+body {
+    background-color: rgb(251, 239, 219);
+}
+
+h1 {
+    font-family: "Fredericka the Great", cursive;
+}
+
+nav {
+    background-color: rgb(31, 91, 37);
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    margin: 15px;
+}
+
+nav a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+nav a:first-child {
+    font-size: 1.5em;
+}
