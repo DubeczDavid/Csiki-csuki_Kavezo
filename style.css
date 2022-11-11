@@ -1,0 +1,20 @@
+@import url(https://fonts.google.com/specimen/Roboto?query=robot&preview.text=a%C3%A1e%C3%A9i%C3%ADo%C3%B3%C3%B6%C5%91u%C3%BA%C3%BC%C5%B1A%C3%81E%C3%81I%C3%8DO%C3%93%C3%96%C5%90U%C3%9A%C3%9C%C5%B0&preview.text_type=custom);
+
+body{
+    background-color: #FBEFDB;
+}
+nav{
+    background-color: #1F5B25;
+    padding: 15px;
+}
+nav a{
+    color: white;
+    margin: 15px;
+}
+nav a.hover{
+    color: white;
+    text-decoration: none;
+}
+nav a:first-child{
+    font-size: 1,5em;
+}
