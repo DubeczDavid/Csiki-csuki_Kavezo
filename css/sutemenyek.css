@@ -12,8 +12,6 @@ h1 {
 
 .suti {
     color: #1F5B25;
-    background-color: #fff;
-    border: 1px solid #1F5B25;
     border-radius: 4px;
     margin-bottom: 1rem;
 }
@@ -33,16 +31,18 @@ h1 {
 nav {
     background-color: #1F5B25;
     padding: 15px;
+    z-index: 5;
 }
 
 nav a {
     color: white;
     margin: 15px;
+    text-decoration: none;
 }
 
 nav a:hover {
     color: white;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 nav a:first-child {
@@ -58,4 +58,9 @@ nav a:first-child img {
     background-position: center center;
     background-size: cover;
     height: 400px;
+}
+
+#napiajanlat {
+    width: 30px;
+    position: absolute;
 }
