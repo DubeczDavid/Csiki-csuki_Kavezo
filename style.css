@@ -1,4 +1,4 @@
-@import url(https://fonts.google.com/specimen/Roboto?query=robot&preview.text=a%C3%A1e%C3%A9i%C3%ADo%C3%B3%C3%B6%C5%91u%C3%BA%C3%BC%C5%B1A%C3%81E%C3%81I%C3%8DO%C3%93%C3%96%C5%90U%C3%9A%C3%9C%C5%B0&preview.text_type=custom);
+@import url();
 
 body{
     background-color: #FBEFDB;
@@ -6,6 +6,7 @@ body{
 nav{
     background-color: #1F5B25;
     padding: 15px;
+    position: fixed;
 }
 nav a{
     color: white;
@@ -19,6 +20,7 @@ nav a:first-child{
     font-size: 1,5em;
 }
 
+<<<<<<< HEAD
 .blog-img{
     border-radius: 4px;
     border: 1px solid #1F5B25;
@@ -41,4 +43,16 @@ p.szerzo{
 
 .box span.badge{
     margin: .25rem;
+=======
+.banner{
+    background-image: url();
+    background-position: center center;
+    background-size: cover;
+    height: 400px;
+}
+
+#napiajanlat{
+    width: 40px;
+    position: absolute;
+>>>>>>> d693276dcb53ade492acf3a4ade9fad36e2fa7f6
 }
