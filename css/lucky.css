@@ -4,10 +4,9 @@ body:not(#home), .modal-body{
     background-color: #fbefdb;
 }   
 
-/*Főoldal*/
 #home{
     height: 100vh;
-    background-image: url(../keppek/homebg.jpg);
+    background-image: url(../keppek/grainleaves.jpg);
     background-attachment: fixed;
     background-position: center center;
     background-size: cover;
@@ -26,7 +25,6 @@ body:not(#home), .modal-body{
     color: white;
 }
 
-/*Menü*/
 nav{
     background-color: #1f5b25;
 }
