@@ -31,8 +31,8 @@ a:hover{
 }
 
 .banner {
-    background-image: url(../sutemeny_kepek/banner.png);
-    background-position: center center;
+    background-image: url(../keppek/bloghatter.jpg);
+    background-position: top;
     background-size: cover;
     height: 400px;
 }
