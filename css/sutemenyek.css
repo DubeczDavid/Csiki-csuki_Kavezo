@@ -12,8 +12,8 @@ h1 {
 
 .card {
     color: #1F5B25;
-    background-color: rgb(251, 239, 219);
-    border-color: rgb(251, 239, 219);
+    background-color: rgb(255, 255, 255);
+    border-color: #1F5B25;
 }
 
 .card:hover {
